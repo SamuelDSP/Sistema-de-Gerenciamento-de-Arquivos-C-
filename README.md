@@ -10,6 +10,7 @@ Ele foi projetado para ser uma base simples para sistemas que lidam com arquivos
 - Escrita de dados em arquivos.
 - Edição de dados no arquivo.
 - Verificação da existência de arquivos.
+- Atualização de Registros
 
 ## Exemplo de uso
 
